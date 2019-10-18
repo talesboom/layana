@@ -1,11 +1,11 @@
 ## To do
 create static About page including the following infomation
-[x] 1. Team members
-[ ] 2. Proposal 
-[ ] 3. User stories (connextra format)
-[x] 4. links to git repository 
+- [x] 1. Team members
+- [ ] 2. Proposal 
+- [ ] 3. User stories (connextra format)
+- [x] 4. links to git repository 
 (https://github.com/talesboom/layana/)
-[x] 5. links to pivotal tracker
+- [x] 5. links to pivotal tracker
 (https://www.pivotaltracker.com/projects/2406996)
 ## Installation 
 - Ruby version 2.2.0+ 
