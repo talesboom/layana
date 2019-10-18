@@ -1,5 +1,5 @@
 ## To do
-create static about page including the following infomation
+create static 'about page' including the following infomation
 1. Team members
 2. Proposal 
 3. User stories (connextra format)
