@@ -1,5 +1,5 @@
 # README
-# Installation 
+## Installation 
 - Ruby version 2.2.0+ 
 - Rubygems 
 - Bundler
