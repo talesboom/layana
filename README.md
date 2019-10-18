@@ -1,5 +1,5 @@
 ## To do
-create static 'about page' including the following infomation
+create static About page including the following infomation
 1. Team members
 2. Proposal 
 3. User stories (connextra format)
@@ -13,10 +13,8 @@ create static 'about page' including the following infomation
 - git
 ## Database 
 - postgres
-## Getting Start
-get start with the following steps
-### Set up git
+## Set up git
 - ```$ git config --global user.name "Your Name"```
 - ```$ git config --global user.email your.email@example.com```
-### Clone git
+## Clone git
 - ```$ git clone https://github.com/talesboom/layana.git```
