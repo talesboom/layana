@@ -1,3 +1,10 @@
+## To do
+create static about page including the following infomation
+1. Team members
+2. Proposal 
+3. User stories (connextra format)
+4. links to git repository
+5. links to pivotal tracker
 ## Installation 
 - Ruby version 2.2.0+ 
 - Rubygems 
