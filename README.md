@@ -1,14 +1,11 @@
-# README
 ## Installation 
 - Ruby version 2.2.0+ 
 - Rubygems 
 - Bundler
 - Rails 5+
 - git
-
 ## Database 
 - postgres
-
 ## Getting Start
 get start with the following steps
 ### Set up git
